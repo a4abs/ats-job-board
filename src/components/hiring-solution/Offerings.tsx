@@ -53,7 +53,7 @@ const Offerings = ({
           fontWeight="400"
           fontSize="38px"
           lineHeight="48px"
-          fontFamily="'Merriweather', sans-serif"
+          fontFamily="'JetBrains Mono', sans-serif"
           sx={{ marginBottom: "90px" }}
         >
           Our Offerings
@@ -79,7 +79,7 @@ const Offerings = ({
                 fontWeight="300"
                 fontSize="28px"
                 lineHeight="35px"
-                fontFamily="'Merriweather', sans-serif"
+                fontFamily="'JetBrains Mono', sans-serif"
               >
                 {offering.label}
               </Typography>
@@ -96,7 +96,7 @@ const Offerings = ({
                 fontWeight="300"
                 fontSize="28px"
                 lineHeight="35px"
-                fontFamily="'Merriweather', sans-serif"
+                fontFamily="'JetBrains Mono', sans-serif"
                 sx={{
                   paddingBottom: "15px",
                   paddingTop: "15px",

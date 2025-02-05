@@ -14,7 +14,7 @@ const Industries = () => {
             fontWeight="400"
             fontSize="38px"
             lineHeight="48px"
-            fontFamily="'Merriweather', sans-serif"
+            fontFamily="'JetBrains Mono', sans-serif"
             sx={{ marginBottom: "100px" }}
           >
             Industries
@@ -42,7 +42,7 @@ const Industries = () => {
                   fontWeight="400"
                   fontSize="22px"
                   lineHeight="27px"
-                  fontFamily="'Merriweather', sans-serif"
+                  fontFamily="'JetBrains Mono', sans-serif"
                   sx={{
                     paddingBottom: "15px",
                   }}
@@ -75,7 +75,7 @@ const Industries = () => {
                   fontWeight="400"
                   fontSize="22px"
                   lineHeight="27px"
-                  fontFamily="'Merriweather', sans-serif"
+                  fontFamily="'JetBrains Mono', sans-serif"
                   sx={{
                     paddingBottom: "15px",
                   }}

@@ -11,7 +11,7 @@ import {
 import { motion } from "framer-motion";
 
 const StatText = styled(Typography)({
-  fontFamily: "'Merriweather', sans-serif",
+  fontFamily: "'JetBrains Mono', sans-serif",
   color: "#FF6F61",
   fontWeight: "initial",
   fontSize: "48px",

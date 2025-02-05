@@ -87,7 +87,7 @@ export default () => {
                 color="primary"
                 sx={{
                   color: "#000000",
-                  fontFamily: "'Merriweather', sans-serif",
+                  fontFamily: "'JetBrains Mono', sans-serif",
                   fontSize: "40px",
                   lineHeight: "50px",
                   fontWeight: "400",
@@ -99,7 +99,7 @@ export default () => {
                   component={"span"}
                   sx={{
                     backgroundColor: "#FF6F61",
-                    fontFamily: "'Merriweather', sans-serif",
+                    fontFamily: "'JetBrains Mono', sans-serif",
                     fontSize: "40px",
                     lineHeight: "50px",
                     fontWeight: "400",

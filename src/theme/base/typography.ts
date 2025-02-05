@@ -43,21 +43,21 @@ const typography = {
   fontWeightBold: baseProperties.fontWeightBold,
 
   h1: {
-    fontFamily: "'Merriweather', sans-serif",
+    fontFamily: "'JetBrains Mono', sans-serif",
     fontSize: pxToRem(48),
     lineHeight: 1.25,
     ...baseHeadingProperties,
   },
 
   h2: {
-    fontFamily: "'Merriweather', sans-serif",
+    fontFamily: "'JetBrains Mono', sans-serif",
     fontSize: pxToRem(40),
     fontWeight: "400",
     lineHeight: 1.3,
   },
 
   h3: {
-    fontFamily: "'Merriweather', sans-serif",
+    fontFamily: "'JetBrains Mono', sans-serif",
     fontSize: pxToRem(24),
     lineHeight: "30px",
     fontWeight: 400,
@@ -72,7 +72,7 @@ const typography = {
   },
 
   h5: {
-    fontFamily: "'Merriweather', sans-serif",
+    fontFamily: "'JetBrains Mono', sans-serif",
     fontSize: pxToRem(20),
     lineHeight: 1.375,
     ...baseHeadingProperties,
@@ -114,7 +114,7 @@ const typography = {
   },
 
   button: {
-    fontFamily: "'Merriweather', sans-serif",
+    fontFamily: "'JetBrains Mono', sans-serif",
     fontSize: baseProperties.fontSizeSM,
     fontWeight: baseProperties.fontWeightRegular,
     lineHeight: 1.5,

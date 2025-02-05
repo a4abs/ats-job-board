@@ -275,7 +275,11 @@ const JobDetails = ({ job, similerJobs }: Props) => {
                   Description
                 </Typography>
               </Grid>
-              <Grid item xs={12}>
+              <Grid
+                item
+                xs={12}
+                sx={{ fontFamily: '"JetBrains Mono",sans-serif' }}
+              >
                 {loading ? (
                   <Skeleton variant="rectangular" width={"100%"} height={100} />
                 ) : (

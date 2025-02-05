@@ -79,7 +79,7 @@ export default function Banner({
                     color: "#FFFFFF",
                     mb: 3,
                   }}
-                  className="merriweather-light"
+                  className="JetBrains Mono"
                 >
                   The Leadership Hiring <br />
                   Specialists

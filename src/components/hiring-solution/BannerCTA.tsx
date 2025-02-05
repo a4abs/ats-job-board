@@ -9,7 +9,7 @@ import {
 } from "@mui/material";
 
 const StatText = styled(Typography)({
-  fontFamily: "'Merriweather', sans-serif",
+  fontFamily: "'JetBrains Mono', sans-serif",
   color: "#000000",
   fontWeight: "300",
   fontSize: "28px",

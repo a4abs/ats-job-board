@@ -22,7 +22,7 @@ const SuccessStories = () => {
                 component={"span"}
                 sx={{
                   backgroundColor: "#FF6F61",
-                  fontFamily: "'Merriweather', sans-serif",
+                  fontFamily: "'JetBrains Mono', sans-serif",
                   fontSize: "40px",
                   lineHeight: "50px",
                   fontWeight: "400",

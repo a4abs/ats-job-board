@@ -101,7 +101,7 @@ const ClientSection = () => {
             marginBottom: 5,
             fontSize: "36px",
             fontWeight: "300",
-            fontFamily: "'Merriweather', sans-serif",
+            fontFamily: "'JetBrains Mono', sans-serif",
           }}
         >
           Our Clientele

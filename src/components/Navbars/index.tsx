@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Container, Box } from "@mui/material";
+import { Container, Box, Typography } from "@mui/material";
 
 import ThemeBox from "@/components/ThemeBox";
 
@@ -23,11 +23,14 @@ function DefaultNavbar({ sticky }: any) {
           >
             <ThemeBox>
               <a href="/">
-                <img
+                <Typography variant="h1" color="#1A3372" fontSize="2rem">
+                  openjobs.dev
+                </Typography>
+                {/* <img
                   src="https://technocube.co/wp-content/uploads/2022/01/cropped-logo-new-2.png"
                   className="App-logo"
                   alt="Savanna HR Logo"
-                />
+                /> */}
               </a>
             </ThemeBox>
           </ThemeBox>

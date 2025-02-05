@@ -49,7 +49,7 @@ const HRJourneyCTA = () => {
               <Typography
                 variant="h2"
                 sx={{
-                  fontFamily: "'Merriweather', sans-serif",
+                  fontFamily: "'JetBrains Mono', sans-serif",
                   fontSize: "48px",
                   lineHeight: "50px",
                   fontWeight: "400",
@@ -61,7 +61,7 @@ const HRJourneyCTA = () => {
                   variant="h2"
                   sx={{
                     backgroundColor: "#FF6F61",
-                    fontFamily: "'Merriweather', sans-serif",
+                    fontFamily: "'JetBrains Mono', sans-serif",
                     fontSize: "48px",
                     lineHeight: "65px",
                     fontWeight: "300",
