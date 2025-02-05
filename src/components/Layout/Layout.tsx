@@ -28,7 +28,7 @@ export default function Layout(props: Readonly<LayoutProps>) {
         <meta property="og:type" content="website" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="favicon.ico" />
       </Head>
       <Navigation transparent light />
       <main style={{ minHeight: "90vh" }}>{children}</main>
