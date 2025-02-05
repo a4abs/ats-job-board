@@ -165,7 +165,7 @@ const JobDetails = ({ job, similerJobs }: Props) => {
                     variant="h1"
                     fontWeight={"medium"}
                     fontSize="20px"
-                    sx={{ fontFamily: "Inter", color: "#000000" }}
+                    sx={{ fontFamily: "JetBrains Mono", color: "#000000" }}
                   >
                     {job.title}
                   </Typography>
@@ -266,7 +266,7 @@ const JobDetails = ({ job, similerJobs }: Props) => {
                 <Typography
                   variant="h2"
                   sx={{
-                    fontFamily: "Inter",
+                    fontFamily: "JetBrains Mono",
                     fontWeight: "bold",
                     fontSize: "20px",
                     lineHeight: "32px",

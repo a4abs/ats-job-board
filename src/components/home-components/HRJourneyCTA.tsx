@@ -11,7 +11,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const CustomLink = styled(Button)({
-  fontFamily: "'Inter', sans-serif",
+  fontFamily: "'JetBrains Mono', sans-serif",
   fontSize: "36px",
   lineHeight: "55px",
   fontWeight: "400",
@@ -95,7 +95,7 @@ const HRJourneyCTA = () => {
                 <Typography
                   variant="h3"
                   sx={{
-                    fontFamily: "'Inter', sans-serif",
+                    fontFamily: "'JetBrains Mono', sans-serif",
                     lineHeight: "55px",
                     fontWeight: "400",
                     color: "#000000",
@@ -122,7 +122,7 @@ const HRJourneyCTA = () => {
                 <Typography
                   variant="h3"
                   sx={{
-                    fontFamily: "'Inter', sans-serif",
+                    fontFamily: "'JetBrains Mono', sans-serif",
                     lineHeight: "55px",
                     fontWeight: "400",
                     color: "#000000",
@@ -149,7 +149,7 @@ const HRJourneyCTA = () => {
                 <Typography
                   variant="h3"
                   sx={{
-                    fontFamily: "'Inter', sans-serif",
+                    fontFamily: "'JetBrains Mono', sans-serif",
                     lineHeight: "55px",
                     fontWeight: "400",
                     color: "#000000",
@@ -185,7 +185,7 @@ const HRJourneyCTA = () => {
                 <Typography
                   variant="h3"
                   sx={{
-                    fontFamily: "'Inter', sans-serif",
+                    fontFamily: "'JetBrains Mono', sans-serif",
                     lineHeight: "55px",
                     fontWeight: "400",
                     color: "#000000",
@@ -212,7 +212,7 @@ const HRJourneyCTA = () => {
                 <Typography
                   variant="h3"
                   sx={{
-                    fontFamily: "'Inter', sans-serif",
+                    fontFamily: "'JetBrains Mono', sans-serif",
                     lineHeight: "55px",
                     fontWeight: "400",
                     color: "#000000",

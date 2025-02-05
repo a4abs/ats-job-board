@@ -42,7 +42,7 @@ export default ({ color = "#000000" }: { readonly color?: string }) => {
             <Typography
               variant="h1"
               fontSize={14}
-              fontFamily="Inter, sans-serif"
+              fontFamily="'JetBrains Mono', sans-serif"
               fontWeight="500"
             >
               {label}

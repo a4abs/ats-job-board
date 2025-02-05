@@ -61,7 +61,7 @@ const CareerAdviceBlog = ({ blogs = [] }: Props) => {
                     md: "20px",
                   },
                   lineHeight: "32px",
-                  fontFamily: "'Inter', sans-serif",
+                  fontFamily: "'JetBrains Mono', sans-serif",
                   display: "-webkit-box",
                   overflow: "hidden",
                   textOverflow: "ellipsis",

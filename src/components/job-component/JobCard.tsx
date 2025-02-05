@@ -95,7 +95,7 @@ const JobCard = (props: Props) => {
           <Typography
             variant="h2"
             fontWeight={"medium"}
-            fontFamily="Inter, sans-serif"
+            fontFamily="'JetBrains Mono', sans-serif"
             fontSize="20px"
             lineHeight="32px"
             whiteSpace="nowrap"

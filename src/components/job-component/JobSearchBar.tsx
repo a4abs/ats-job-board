@@ -182,7 +182,7 @@ const JobSearchBar = (props: Props) => {
           lineHeight="32px"
           mt={2}
           color={"#003399"}
-          fontFamily="Inter, sans-serif"
+          fontFamily="'JetBrains Mono', sans-serif"
         >
           {`Explore ${lastSegment.replace(/[^a-zA-Z0-9 ]/g, " ") || ""}`}
         </Typography>

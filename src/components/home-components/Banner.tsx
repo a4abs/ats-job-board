@@ -99,7 +99,7 @@ export default function Banner({
                     color: "#FFFFFF",
                     marginTop: 1,
                     mb: 3,
-                    fontFamily: "Inter, sans-serif",
+                    fontFamily: "JetBrains Mono, sans-serif",
                   }}
                 >
                   We work with the big guns and upstarts to match <br />
